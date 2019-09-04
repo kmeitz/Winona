@@ -40,7 +40,7 @@ Testimony's of Beno's Deli
 > "Beno's Deli is way better then Saint Mary's University's cafe food"
 
 
-![alt text](https://www.exploreminnesota.com/memberimage.ashx?id=28958.png "Logo Title Text 1")
+![alt text](https://benosdeli.com/wp-content/uploads/2017/01/IMG_0134.jpg "Logo Title Text 1")
 
 
 

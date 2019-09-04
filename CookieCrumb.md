@@ -42,9 +42,11 @@ Currently there isn't a website for Cookie Crumb Bake Shop, but there are is a F
   | Sunday | 2:00PM      | 
 *All Times are Central Standard Time*
 
-#### About Winona Link
-![About Winona](https://github.com/kmeitz/Winona/blob/master/ABOUTWINONA.md)
+#### About Winona
+[About Winona](https://github.com/kmeitz/Winona/edit/master/ABOUTWINONA.md)
 #### Beno's Deli Link
-![Beno's Deli](https://github.com/kmeitz/Winona/blob/master/Beno's.md)
+[Beno's Deli](https://github.com/kmeitz/Winona/blob/master/Beno's.md)
+
 #### Bloedow's Bakery Link
-![Bloedow's Bakery]https://github.com/kmeitz/Winona/blob/master/Bloedow.md
+[Bloedow's Bakery](https://github.com/kmeitz/Winona/blob/master/Bloedow.md)
+

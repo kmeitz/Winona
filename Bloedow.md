@@ -29,3 +29,11 @@ Bloedow's started in 1924 by Ernest and Mary Bloedow. The bakery moved a few tim
 <a href="https://www.youtube.com/watch?v=uuwjnFlXODQ
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="Bloedow's Youtube Video" width="240" height="180" border="10" /></a>
+
+#### About Winona Link
+![About Winona](https://github.com/kmeitz/Winona/blob/master/ABOUTWINONA.md)
+#### Beno's Deli Link
+![Beno's Deli](https://github.com/kmeitz/Winona/blob/master/Beno's.md)
+
+#### Cookie Crumb Bake Shoppe Link
+![Cookie Crumb Bake Shoppe](https://github.com/kmeitz/Winona/blob/master/CookieCrumb.md)

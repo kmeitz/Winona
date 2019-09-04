@@ -43,6 +43,13 @@ Testimony's of Beno's Deli
 ![alt text](https://benosdeli.com/wp-content/uploads/2017/01/IMG_0134.jpg "Logo Title Text 1")
 
 
+#### About Winona
+[About Winona](https://github.com/kmeitz/Winona/edit/master/ABOUTWINONA.md)
 
+#### Bloedow's Bakery Link
+[Bloedow's Bakery](https://github.com/kmeitz/Winona/blob/master/Bloedow.md)
+
+#### Cookie Crumb Bake Shoppe Link
+[Cookie Crumb Bake Shoppe](https://github.com/kmeitz/Winona/blob/master/CookieCrumb.md)
 
 
